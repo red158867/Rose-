@@ -26,10 +26,11 @@
     "rasinapi": "https://developer-rasin420.onrender.com"
   },
   "api": "https://www.noobs-api.000.pe/dipto",
-  "nickNameBot": "Dʀᴇꫝᴍʏ Cʜꫝᴛ",
-  "prefix": "!",
+  "nickNameBot": "ʀᴏsᴇ ღ"
+  "prefix": ".",
   "vipUser": [
-    "100083520680035"
+    "100083520680035",
+    "100014645806986"
   ],
   "orgDEV": [
     "61559599768817",
@@ -43,7 +44,7 @@
   "adminBot": [
     "100083520680035",
     "61559599768817",
-    "61556156554570"
+    "100014645806986"
   ],
   "DEV": [
     "100083520680035",
@@ -53,14 +54,15 @@
     "100033670741301"
   ],
   "whiteListMode": {
-    "enable": false,
+    "enable": true,
     "whiteListIds": [
-      "100083520680035"
+      "100083520680035",
+      "100014645806986"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "whiteListModeThread": {
-    "enable": false,
+    "enable": true,
     "whiteListThreadIds": [
       "8109081592491190",
       "27019330047654377"
