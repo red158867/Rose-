@@ -6,10 +6,10 @@ const conversationMemory = {};
 module.exports = {
   config: {
     name: "jeba",
-    aliases: ["jeba", "bby"],
+    aliases: ["jeba", "bby", "rose"],
     version: "1.4.0",
     author: "Tasbiul Islam Rasin",
-    countDown: 2,
+    countDown: 0,
     role: 0,
     longDescription: {
       en: "Engage in conversation with Jeba!"
